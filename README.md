@@ -27,3 +27,8 @@ Tag belongs to many Product models.
           
  
 # WalkThrough Video
+
+https://github.com/jagydas/e-commerce/tree/main/Walkthrough-video
+
+# Contribution
+ jagydas
